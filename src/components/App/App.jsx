@@ -4,7 +4,7 @@ import "./app.css";
 function App() {
   return (
     <div className="App">
-      <CardList />
+      <h1>Hello React boilerplate!</h1>
     </div>
   );
 }
